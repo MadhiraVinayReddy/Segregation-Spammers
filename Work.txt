@@ -1,0 +1,58 @@
+
+
+
+Users  --- Register with Community like Sports,Education,Cinema,Politics and Login,request to un block if it is blocked
+
+       --- View Your Profile with community
+ 
+       --- Search Friends based on community
+       
+       --- View Friend Request and Response
+
+       --- View My Friends based on community
+
+       --- Create Tweet Topic with tweet_postname,TAbout,TUses,tcontent desc, Browse MetaData_desc,TweetURL,TDate and Time,TOwner,add TImage
+
+	-- Search Tweet Topic by keyword and give Your Interactions(increse score while viewing) and view URL to see web page
+
+       --- View all your Tweets Topic with other Interactions and scores
+
+       --- View all your Friends Tweet Topic with other Interactions and scores and give your Interactions
+
+       --- View All Similar Friend's Tweets Topic
+ 
+       --- show all Spamming behaviors friends Topics with profile.
+
+     
+
+Twitter Admin --Login
+
+ 
+       --- View Users and Authorize(Give link on user to view Profile)
+
+       --- View all Uses Friend Request and Response(Give link on user to view Profile)
+
+       --- Add Spam Filter name
+
+       --- View All spamming accounts with profile details and Block
+     
+       --- View All Un Block request users details using decision tree format and Unblock by clicking user name  
+
+       --- View all User's Tweet Topic with  Interactions and scores
+
+       --- View All Spam Account(Based on Virus,Malware) And Normal Account with Reasons based on Random Forest Tree
+
+       --- (Based ON Community)View All Spamming Behaviors and Normal Behaviors based on Interactions by Filter Name and give link to show Number of boith users in chart
+
+       --- (Based ON Community)View All Spamming Behaviors and Normal Behaviors based on Tweet Meta Data by Filter Name and give link to show Number of boith users in chart
+
+      --- (Based ON Community)View Number of Spamming Account and Normal Account in Chart
+
+
+
+NOTE :: Change user profile Account status as Spamming as soon as he uploads malware doc or spamming word
+
+     
+        All Operations should be Based ON Community
+          
+       
